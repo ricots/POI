@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">POI</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="PI">Pontos de Interesse</string>
+    <string name="lat">Latitude</string>
+    <string name="lon">Longitude</string>
+    <string name="Mapa">Mapa</string>
+    <string name="Categorias">Categorias</string>
+    <string name="exit">Sair</string>
+    <string name="empty">Lista Vazia</string>
+    <string name="add">Adicionar</string>
+    <string name="delete">Eliminar</string>
+    <string name="back">Voltar</string>
+    <string name="splashscreen">Splash Screen</string>
+    <string name="confirm">Confirmar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="description">Descrição</string>
+    <string name="menu_sethybrid">Modo Hibrido</string>
+    <string name="navigate">Navegar</string>
+    <string name="webservice">WebService</string>
+    <string name="menu_getmarkercat">Listar por Categoria</string>
+    <string name="menu_showAll">Mostrar Todos</string>
+</resources>
